@@ -1,1 +1,5 @@
-data_test/line_img_failed/axis_result_modify2
+data_test
+www_show
+result-dump
+.vscode
+.ipynb_checkpoints
